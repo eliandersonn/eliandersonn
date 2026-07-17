@@ -1,6 +1,6 @@
 # Olá, eu sou o Eli 🚀
 
-**Data Engineer | Large Scale Data Pipelines | Logistical Operations**
+**Data Engineer | Large Scale Data Pipelines | Logistical Operations | Digital Analytics**
 
 Profissional com mais de 5 anos de experiência sólida transformando volumes massivos de dados brutos de logística e produtos em repositórios analíticos de alta confiabilidade e performance. Atualmente focado na arquitetura e otimização de dados para a malha logística de Mercado Envios (Mercado Livre), viabilizando estudos estratégicos de longo prazo (Capacity).
 
